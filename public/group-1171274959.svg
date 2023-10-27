@@ -1,0 +1,14 @@
+<svg width="1240" height="116" viewBox="0 0 1240 116" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line y1="0.5" x2="1239" y2="0.5" stroke="url(#paint0_diamond_2669_4064)" stroke-opacity="0.75"/>
+<line x1="1" y1="115.5" x2="1240" y2="115.5" stroke="url(#paint1_diamond_2669_4064)" stroke-opacity="0.75"/>
+<defs>
+<radialGradient id="paint0_diamond_2669_4064" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(619.5 1.50489) rotate(-179.953) scale(613.5 760127)">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_diamond_2669_4064" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(638.5 115.996) rotate(-179.59) scale(630.516 781209)">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
